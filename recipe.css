@@ -1,0 +1,71 @@
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	margin-bottom: 1cm;
+ }
+
+body {
+      background-size: cover;
+      background-position: right;
+      background-repeat: no-repeat;
+      color: #999999;
+      font-family: 'Pacifico', cursive;
+      border: 10px 10px 10px 10px;
+  }
+  
+.mallowpic {
+			border-radius: 50px;
+}
+
+input {
+		border: 0;
+    	padding: 10px;
+    	font-size: 18px;
+}
+
+input[type="submit"] {
+      				background: teal;
+      				color: white;
+}
+
+.container {
+	margin: 0;
+}
+
+.banner {
+	margin: 0 0 0 0;
+	text-align: center;
+	color: white;
+	background-color: rgba(255, 0, 255, 0.2);
+	line-height: 150px;
+}
+.banner h1 {
+	margin: 0;
+	font-size: 70px;
+}
+
+.banner h2 {
+	font-size: 40px;
+	margin-bottom: 0.5cm;
+}
+
+#contactsocial h2 {
+	font-size:20px;
+}
+
+#social-buttons button {
+	border-radius: 100px;
+	color: white;
+} 
+
+.btn-twitter {
+	background-color: #00acee;
+}
+
+.btn-facebook {
+	background-color: #4868ac;
+}
+
+.btn-pinterest {
+	background-color: red;
+}
